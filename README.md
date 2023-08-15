@@ -1,4 +1,7 @@
 # Hello World!
+
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sam Mao
 ===============================================================================================================================
 
@@ -24,7 +27,7 @@ src="https://img.shields.io/twitter/follow/SamManu87997521?logo=twitter&style=fo
 
 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+<a href="https://skillicons.dev/icons?i=js,html,css,wasm" <img src="https://skillicons.dev" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
 
