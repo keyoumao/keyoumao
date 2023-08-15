@@ -24,7 +24,7 @@ src="https://img.shields.io/twitter/follow/SamManu87997521?logo=twitter&style=fo
 /></a>
 
 ### Skills
-[![Skills](https://skillicons.dev/icons?i=js,html,css,aws,gcp,azure)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,html,css,aws,gcp,azure,bootstrap,cpp,d3,bash,git,gitlab,linux,matlab,ps,powershell,py,pytorch,tensorflow,vscode,mongodb,mysql,postgres,flask,r,c,fortran,java,ai,github)](https://skillicons.dev)
 
 
 
