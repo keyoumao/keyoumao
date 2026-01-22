@@ -12,7 +12,7 @@ I am an independent AI researcher focused on enterprise AI solutions, specifical
 
 * 🌍  I'm based in USA
 * 🖥️  See my portfolio at [github](https://keyoumao.github.io)
-* ✉️  You can contact me at [email(mailto:tedmanuel22@proton.me)
+* ✉️  You can contact me at [email](mailto:tedmanuel22@proton.me)
 * 🚀  I'm currently working on [Machine-learning driven defect analysis](http://github.com/keyoumao/Defect_dP_PaCKage)
 * 🧠  I'm learning NLP, CNN & Generative AI
 * 🤝  I'm open to collaborating on Anything goes with applied machine learning modeling.
