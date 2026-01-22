@@ -8,11 +8,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Test-Time Compute
 --------------------------
 
-I am an independent AI researcher focused on enterprise AI solutions, specifically in the areas of developing domain-specific LLM models and LLM evaluation for compound AI systems. I develop methodologies to ensure that large language models are effectively evaluated and that AI systems are architected for optimal performance and scalability within enterprise environments. I have contributed to various projects at both private sectors and academic institutions such as University of Wisconsin Madison, Oak Ridge National Laboratory, Idaho National Laboratory, including SaaS development, recommendation systems, search engine optimization, and government/commercial/defense initiatives. My background includes research positions at Florida Agricultural and Mechanical University, Florida State University, and the National High Magnetic Field Laboratory, where I utilized data science and machine learning for automation of advanced materials characterization. I hold a Ph.D. in Materials Science and Engineering and a Master's in Nuclear Engineering from Purdue University, and a BS in Mechanical Engineering from University of California San Diego. I am committed to helping organizations realize the transformative potential of AI.
+I am an independent AI researcher focused on enterprise AI solutions, specifically in the areas of developing domain-specific LLM models and LLM evaluation for compound AI systems. I develop methodologies to ensure that large language models are effectively evaluated and that AI systems are architected for optimal performance and scalability within enterprise environments. I have contributed to various projects at both private sectors and academic institutions including SaaS development, recommendation systems, search engine optimization, and government/commercial/defense initiatives. My background includes research positions where I utilized data science and machine learning for automation of advanced materials characterization. I hold a Ph.D. in Engineering. I am committed to helping organizations realize the transformative potential of AI.
 
 * 🌍  I'm based in USA
-* 🖥️  See my portfolio at [https://keyoumao.github.io/](https://www.atlantianintelligence.com/)
-* ✉️  You can contact me at [tedmanuel22@proton.me](mailto:tedmanuel22@proton.me)
+* 🖥️  See my portfolio at [github](https://keyoumao.github.io)
+* ✉️  You can contact me at [email(mailto:tedmanuel22@proton.me)
 * 🚀  I'm currently working on [Machine-learning driven defect analysis](http://github.com/keyoumao/Defect_dP_PaCKage)
 * 🧠  I'm learning NLP, CNN & Generative AI
 * 🤝  I'm open to collaborating on Anything goes with applied machine learning modeling.
